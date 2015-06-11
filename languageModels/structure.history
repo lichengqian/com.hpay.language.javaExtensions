@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="gg68" modelUID="r:56c8ea10-11f4-4d88-a891-d05d901de725(com.hpay.language.javaExtensions.structure)" version="-1" />
+    </dependencies>
+    <rename id="gg68.7919568458657906210" type="CONCEPT" from="ExtensionInstanceMethodDeclare" to="ExtensionMethod" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="gg68" modelUID="r:56c8ea10-11f4-4d88-a891-d05d901de725(com.hpay.language.javaExtensions.structure)" version="0" />
+    </dependencies>
+    <rename id="gg68.7919568458657906210" type="CONCEPT" from="ExtensionMethod" to="Extension" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="gg68" modelUID="r:56c8ea10-11f4-4d88-a891-d05d901de725(com.hpay.language.javaExtensions.structure)" version="1" />
+    </dependencies>
+    <rename id="gg68.7919568458658017284" type="CONCEPT" from="ExtensionInstanceMethodCallOperation" to="ExtensionInstanceMethodCall" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="gg68" modelUID="r:56c8ea10-11f4-4d88-a891-d05d901de725(com.hpay.language.javaExtensions.structure)" version="2" />
+    </dependencies>
+    <rename id="gg68.2746097706582382015" type="CONCEPT" from="DataClass" to="DataClassConcept" />
+  </StructureModification>
+</history>
+
